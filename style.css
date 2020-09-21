@@ -19,7 +19,7 @@ section{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: url(/bg-intro-desktop.png) no-repeat;
+    background: url(bg-intro-desktop.png) no-repeat;
     background-color: hsl(0, 100%, 74%);
     background-size: cover;
     padding: 0px 160px;
@@ -91,7 +91,7 @@ button:focus{
 }
 .error{
     border: 2px solid hsl(0, 100%, 74%);
-    background: url(/icon-error.svg) no-repeat;
+    background: url(icon-error.svg) no-repeat;
     background-position: 95% 50%;
 }
 
@@ -115,7 +115,7 @@ button:focus{
         flex-direction: column;
         justify-content: center;
         align-items: center;
-        background: url(/bg-intro-mobile.png) ;
+        background: url(bg-intro-mobile.png) ;
         background-color: hsl(0, 100%, 74%);
     }
     section{
